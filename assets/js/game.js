@@ -123,7 +123,7 @@ const computerTurn = (minPoints) => {
         } else {
             alert('Sorry, you lost!');
         }
-    }, 200);
+    }, 4000);
 
 }
 
